@@ -19,13 +19,16 @@ body {
     height: 60px;
 }
 
+.navbar.navbar-fixed-top {
+    border-bottom: 5px solid #FF2B06;
+    min-height: 80px;
+}
+
 .navbar-fixed-top {
     display: table;
     margin: 0 auto;
     width: 100%;
     background-color: white;
-    border-bottom: 5px solid #FF2B06;
-    min-height: 80px;
 }
 
 .nav-bar {
