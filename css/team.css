@@ -167,7 +167,11 @@ body,
 
 
 /*///////////////////*/
+
+
 /*Winston effect*/
+
+
 /*//////////////////*/
 
 figure.effect-winston {
@@ -184,8 +188,9 @@ figure.effect-winston img {
 
 figure.effect-winston figcaption::before {
     position: absolute;
-    top: 0;
-    left: 0;
+    bottom: -19px;
+    /* top: 0; */
+    left: -20px;
     width: 100%;
     height: 100%;
     background: url(../img/triangle.svg) no-repeat center center;
