@@ -5,21 +5,7 @@ body,
     overflow: hidden;
     width: 100%;
     height: 100%;
-    font-family: "Helvetica Neue Ultralight"!important;
-}
-
-@font-face {
-    font-family: "Helvetica Neue Ultralight";
-    font-style: normal;
-    font-weight: normal;
-    src: url("/fonts/helveticaneueltcomultlt.eot") format("eot"), url("/fonts/helveticaneueltcomultlt.woff") format("woff"), url("/fonts/helveticaneueltcomultlt.ttf") format("truetype"), url("/fonts/helveticaneueltcomultlt.svg#helveticaneueltcomultlt") format("svg")
-}
-
-@font-face {
-    font-family: "Helvetica Neue Light";
-    font-style: normal;
-    font-weight: normal;
-    src: url("/fonts/helveticaneueltcomlt.eot") format("eot"), url("/fonts/helveticaneueltcomlt.woff") format("woff"), url("/fonts/helveticaneueltcomlt.ttf") format("truetype"), url("/fonts/helveticaneueltcomlt.svg#helveticaneueltcomlt") format("svg")
+    font-family: 'Raleway', sans-serif;
 }
 
 .intro {
